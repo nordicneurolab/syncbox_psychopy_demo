@@ -10,4 +10,4 @@ The demo simply counts the number of triggers received from the SyncBox and disp
 
 <img width="1920" alt="Screenshot 2023-12-20 at 15 23 54" src="https://github.com/nordicneurolab/syncbox_psychopy_demo/assets/122446560/ef86a4c8-24a5-41be-8cb5-e8dc015c8fb5">
 
-For more detailed information about implementing NordicNeuroLab fMRI hardware please visit our website: https://www.nordicneurolab.com/resources#user-guides
+For more detailed information about implementing NordicNeuroLab fMRI hardware with PsychoPy please visit our website: https://www.nordicneurolab.com/resources#user-guides
